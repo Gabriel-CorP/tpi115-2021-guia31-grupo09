@@ -1,0 +1,72 @@
+/* ejercicio6.css   CH17013  */
+datos {
+background-color:blue;
+text-align:center;
+height:auto;
+}
+nombres[title]::before {content:attr(title);
+color: black;
+font-weight:bold;
+}
+nombres {
+width:80%;
+margin:auto;
+background-color:lightcyan; 
+display:block;
+margin-top: 30px;
+padding:10px;
+} 
+
+apellidos[title]::before {content:attr(title);
+color: blue;
+font-weight:bold;
+}
+apellidos {
+width:80%;
+margin:auto;
+color:blue; 
+display:block;
+background-color:lightcyan; 
+padding:10px;
+} 
+carnet[title]::before {content:attr(title);
+color: brown;
+font-weight:bold;
+}
+carnet {
+width:80%;
+margin:auto;
+color:brown; 
+display:block;
+background-color:lightcyan; 
+padding:10px;
+}
+listado_materias[title]::before {content:attr(title);
+color: black;
+font-weight:bold;
+}
+listado_materias {
+width:80%;
+margin:auto;
+display:flex;
+background-color:lightcyan; 
+padding:10px;
+border: solid;
+}
+materia {
+margin:auto;
+color:black;
+display:block;
+border-left: solid;
+}
+codigo {
+margin:auto;
+color:limegreen;
+display:block;
+}
+nombre {
+margin:auto;
+color:magenta;
+display:block;
+padding:10px;
+}

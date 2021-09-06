@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio6.css" ?>
+<!-- ejercicio6.xml  CH17013 -->
+<datos>
+
+    <nombres title="Nombre: ">Maira Yesenia</nombres>
+    <apellidos title="Apellidos: ">Castro Henriquez</apellidos>
+    <carnet title="Carnet: ">CH17013</carnet>
+    <listado_materias litle="Materias: ">
+        <materia id="1" nombre="Arquitectura de computadoras">
+            <codigo>ARC115</codigo>
+            <nombre>Arquitectura de computadoras</nombre>
+            <horario_clase_teorica>martes 8:00pm</horario_clase_teorica>
+            <horario_laboratorio>miercoles 8:00pm</horario_laboratorio>
+        </materia>
+        <materia id="2" nombre="Herramientas de productividad">
+            <codigo>HDP115</codigo>
+            <nombre>Herramientas de productividad</nombre>
+            <horario_clase_teorica>martes 8:00pm</horario_clase_teorica>
+            <horario_laboratorio>miercoles 8:00pm</horario_laboratorio>
+        </materia>
+        <materia id="3" nombre="Tecnicas de Programacion para internet">
+            <codigo>TPI115</codigo>
+            <nombre>Tecnicas de Programacion para internet</nombre>
+            <horario_clase_teorica>martes 8:00pm</horario_clase_teorica>
+            <horario_laboratorio>miercoles 8:00pm</horario_laboratorio>
+        </materia>
+    </listado_materias>
+
+</datos>

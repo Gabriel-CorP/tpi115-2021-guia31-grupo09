@@ -1,0 +1,46 @@
+﻿/* ejercicio6.json   CH17013  */
+{
+	"datos": {
+		"nombres": {
+			"_title": "Nombre: ",
+			"__text": "Maira Yesenia"
+		},
+		"apellidos": {
+			"_title": "Apellidos: ",
+			"__text": "Castro Henriquez"
+		},
+		"carnet": {
+			"_title": "Carnet: ",
+			"__text": "CH17013"
+		},
+		"listado_materias": {
+			"materia": [
+				{
+					"codigo": "ARC115",
+					"nombre": "Arquitectura de computadoras",
+					"horario_clase_teorica": "martes 8:00pm",
+					"horario_laboratorio": "miercoles 8:00pm",
+					"_id": "1",
+					"_nombre": "Arquitectura de computadoras"
+				},
+				{
+					"codigo": "HDP115",
+					"nombre": "Herramientas de productividad",
+					"horario_clase_teorica": "martes 8:00pm",
+					"horario_laboratorio": "miercoles 8:00pm",
+					"_id": "2",
+					"_nombre": "Herramientas de productividad"
+				},
+				{
+					"codigo": "TPI115",
+					"nombre": "Tecnicas de Programacion para internet",
+					"horario_clase_teorica": "martes 8:00pm",
+					"horario_laboratorio": "miercoles 8:00pm",
+					"_id": "3",
+					"_nombre": "Tecnicas de Programacion para internet"
+				}
+			],
+			"_litle": "Materias: "
+		}
+	}
+}
