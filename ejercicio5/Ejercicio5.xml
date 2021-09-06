@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio5.css"?>
+<!-- Ejercicio5.xml  Grupo09 -->
+<agenda>
+	<titulo>AGENDA DE CONTACTOS</titulo>
+<contacto id="1">
+		<completo>
+<nombre>Lucia</nombre>
+<apellido>Castro</apellido>
+		</completo>
+		<apodo>Lucy</apodo>
+		<teléfonoF codigo="503">2648-2361</teléfonoF>
+		<celular codigo="503">7264-9560</celular>
+		<direccion>Soyapango</direccion>
+		<correoE>lcastro@gmail.com</correoE>
+	</contacto>
+	<contacto id="2">
+		<completo>
+			<nombre>Ana</nombre>
+<apellido>Pineda</apellido>
+		</completo>
+		<apodo>Any</apodo>
+		<teléfonoF codigo="503">2348-9572</teléfonoF>
+		<celular codigo="503">6348-9974</celular>
+		<direccion>Mejicanos</direccion>
+		<correoE>ana_pineda@outlook.com</correoE>
+	</contacto>
+	<contacto id="3">
+		<completo>
+			<nombre>Marcos</nombre>
+<apellido>Valencia</apellido>
+		</completo>
+		<apodo>Marc</apodo>
+		<teléfonoF codigo="503">2563-1204</teléfonoF>
+		<celular codigo="503">6363-1205</celular>
+		<direccion>Santa Tecla</direccion>
+		<correoE>mvalencia@gmail.com</correoE>
+	</contacto>
+	<contacto id="4">
+		<completo>
+			<nombre>Fernando</nombre>
+<apellido>Lopez</apellido>
+		</completo>
+		<apodo>Fer</apodo>
+		<teléfonoF codigo="503">2678-6588</teléfonoF>
+		<celular codigo="503">7348-1001</celular>
+		<direccion>Panchimalco</direccion>
+		<correoE>fer.lopez@yahoo.com</correoE>
+	</contacto>
+	<contacto id="5">
+		<completo>
+			<nombre>Sofia</nombre>
+<apellido>Aguilar</apellido>
+		</completo>
+		<apodo>Sofi</apodo>
+		<teléfonoF codigo="503">2248-9673</teléfonoF>
+		<celular codigo="503">7758-9031</celular>
+		<direccion>San Salvador</direccion>
+		<correoE>sof_aguilar@gmail.com</correoE>
+	</contacto>
+	<contacto id="6">
+		<completo>
+			<nombre>Juan</nombre>
+<apellido>Martinez</apellido>
+		</completo>
+		<apodo>Juanma</apodo>
+		<teléfonoF codigo="503">2215-9930</teléfonoF>
+		<celular codigo="503">7254-3452</celular>
+		<direccion>La Palma</direccion>
+		<correoE>juanma@gmail.com</correoE>
+	</contacto>
+	<contacto id="7">
+		<completo>
+			<nombre>Kenia</nombre>
+<apellido>Quintanilla</apellido>
+		</completo>
+		<apodo>Kenny</apodo>
+		<teléfonoF codigo="503">2761-8645</teléfonoF>
+		<celular codigo="503">6782-2452</celular>
+		<direccion>Zacatecoluca</direccion>
+		<correoE>keniaq@hotmail.com</correoE>
+	</contacto>
+	<contacto id="8">
+		<completo>
+		<nombre>Ester</nombre>
+<apellido>Garcia</apellido>
+		</completo>
+		<apodo>Estercy</apodo>
+		<teléfonoF codigo="503">2135-5985</teléfonoF>
+		<celular codigo="503">7325-2155</celular>
+		<direccion>Ciudad Delgado</direccion>
+		<correoE>ester.garcia@outlook.com</correoE>
+	</contacto>
+	<contacto id="9">
+		<completo>
+			<nombre>Brandon</nombre>
+<apellido>Morales</apellido>
+		</completo>
+		<apodo>Brand</apodo>
+		<teléfonoF codigo="503">2235-1353</teléfonoF>
+		<celular codigo="503">7231-1452</celular>
+		<direccion>Ilopango</direccion>
+		<correoE>branmorales@yahoo.com</correoE>
+	</contacto>
+	<contacto id="10">
+		<completo>
+		<nombre>Alfredo</nombre>
+<apellido>Torres</apellido>
+		</completo>
+		<apodo>Alf</apodo>
+		<teléfonoF codigo="503">2645-5245</teléfonoF>
+		<celular codigo="503">7545-3152</celular>
+		<direccion>Apaneca</direccion>
+		<correoE>a.torres@yahoo.com</correoE>
+	</contacto>
+	</agenda>
