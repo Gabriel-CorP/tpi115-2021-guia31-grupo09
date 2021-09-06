@@ -1,0 +1,75 @@
+agenda{
+    display: table;
+    border-spacing: 20px;
+    border: #6e4ec7 15px groove;
+    width: 95%;
+    height: 95%;
+    margin: auto;
+    margin-top: .6em;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 30px;
+    text-indent: 20px;
+    counter-reset: contador;
+    background: rgb(51, 161, 128);
+    background-color: linear-gradient(90deg, rgba(68,112,131,1) 19%, rgba(71,90,93,1) 53%, rgba(112,200,200,0.9192051820728291) 87%);
+}
+
+titulo{
+    font-size:50px;
+    text-shadow: -1px 0 black, 0 3px black, 1px 0 black, 0 -1px black;
+    font-family: sans; color: white;
+    text-align: center;
+    text-decoration: bold;
+    display: block;
+    margin-bottom: 50px;
+}
+
+celular:not(:empty)::before{
+  content:"Celular: +"attr(codigo);
+}
+
+teléfonoF:not(:empty)::before{
+content:"Teléfono: +"attr(codigo);
+}
+
+contacto{
+    counter-reset: none;
+    background-color: white;
+    display: table;
+    width: 95%;
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to left, #C86A4C, #572ECD);
+    margin-bottom: 15px;
+}
+
+apodo:not(:empty)::before{
+  content:"Apodo: ";
+}
+
+direccion:not(:empty)::before{
+  content:"Dirección: ";
+}
+
+correoE:not(:empty)::before{
+  content:"Correo electrónico: ";
+}
+
+apodo, teléfonoF, celular, direccion, correoE, grupo, sitioW{
+    display: block;
+}
+
+completo{
+    color: blue;
+    background: #ADADAD;
+    display: block;
+    margin-left: 10px;
+}
+
+nombre, apellido{
+    display: inline;
+}
