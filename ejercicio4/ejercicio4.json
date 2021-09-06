@@ -1,0 +1,202 @@
+{
+	"pais": {
+		"region": [
+			{
+				"temperatura": {
+					"dia": [
+						{
+							"minima": "Minima: 20",
+							"promedio": "Promedio: 25.5",
+							"maxima": "Maxima: 31",
+							"_id": "1",
+							"_nombre": "Lunes",
+							"__text": "Lunes"
+						},
+						{
+							"minima": "Minima: 19",
+							"promedio": "Promedio: 24.5",
+							"maxima": "Maxima: 30",
+							"_id": "2",
+							"_nombre": "Martes",
+							"__text": "Martes"
+						},
+						{
+							"minima": "Minima: 20",
+							"promedio": "Promedio: 25.5",
+							"maxima": "Maxima: 31",
+							"_id": "3",
+							"_nombre": "Miercoles",
+							"__text": "Miercoles"
+						},
+						{
+							"minima": "Minima: 20",
+							"promedio": "Promedio: 25.5",
+							"maxima": "Maxima: 31",
+							"_id": "4",
+							"_nombre": "Jueves",
+							"__text": "Jueves"
+						},
+						{
+							"minima": "Minima: 19",
+							"promedio": "Promedio: 24.5",
+							"maxima": "Maxima: 30",
+							"_id": "5",
+							"_nombre": "Viernes",
+							"__text": "Viernes"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 26.5",
+							"maxima": "Maxima: 32",
+							"_id": "6",
+							"_nombre": "Sabado",
+							"__text": "Sabado"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 26.5",
+							"maxima": "Maxima: 32",
+							"_id": "7",
+							"_nombre": "Domingo",
+							"__text": "Domingo"
+						}
+					]
+				},
+				"_id": "1",
+				"_nombre": "Oriental",
+				"__text": "Oriental"
+			},
+			{
+				"temperatura": {
+					"dia": [
+						{
+							"minima": "Minima: 17",
+							"promedio": "Promedio: 23",
+							"maxima": "Maxima: 29",
+							"_id": "1",
+							"_nombre": "Lunes",
+							"__text": "Lunes"
+						},
+						{
+							"minima": "Minima: 23",
+							"promedio": "Promedio: 26.5",
+							"maxima": "Maxima: 30",
+							"_id": "2",
+							"_nombre": "Martes",
+							"__text": "Martes"
+						},
+						{
+							"minima": "Minima: 17",
+							"promedio": "Promedio: 23",
+							"maxima": "Maxima: 29",
+							"_id": "3",
+							"_nombre": "Miercoles",
+							"__text": "Miercoles"
+						},
+						{
+							"minima": "Minima: 23",
+							"promedio": "Promedio: 26.5",
+							"maxima": "Maxima: 30",
+							"_id": "4",
+							"_nombre": "Jueves",
+							"__text": "Jueves"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 27",
+							"maxima": "Maxima: 33",
+							"_id": "5",
+							"_nombre": "Viernes",
+							"__text": "Viernes"
+						},
+						{
+							"minima": "Minima: 19",
+							"promedio": "Promedio: 24.5",
+							"maxima": "Maxima: 30",
+							"_id": "6",
+							"_nombre": "Sabado",
+							"__text": "Sabado"
+						},
+						{
+							"minima": "Minima: 19",
+							"promedio": "Promedio: 24.5",
+							"maxima": "Maxima: 30",
+							"_id": "7",
+							"_nombre": "Domingo",
+							"__text": "Domingo"
+						}
+					]
+				},
+				"_id": "2",
+				"_nombre": "Central",
+				"__text": "Central"
+			},
+			{
+				"temperatura": {
+					"dia": [
+						{
+							"minima": "Minima: 22",
+							"promedio": "Promedio: 28.5",
+							"maxima": "Maxima: 35",
+							"_id": "1",
+							"_nombre": "Lunes",
+							"__text": "Lunes"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 27",
+							"maxima": "Maxima: 33",
+							"_id": "2",
+							"_nombre": "Martes",
+							"__text": "Martes"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 27",
+							"maxima": "Maxima: 33",
+							"_id": "3",
+							"_nombre": "Miercoles",
+							"__text": "Miercoles"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 28.5",
+							"maxima": "Maxima: 34",
+							"_id": "4",
+							"_nombre": "Jueves",
+							"__text": "Jueves"
+						},
+						{
+							"minima": "Minima:22",
+							"promedio": "Promedio: 28.5",
+							"maxima": "Maxima: 33",
+							"_id": "5",
+							"_nombre": "Viernes",
+							"__text": "Viernes"
+						},
+						{
+							"minima": "Minima: 19",
+							"promedio": "Promedio: 24.5",
+							"maxima": "Maxima: 30",
+							"_id": "6",
+							"_nombre": "Sabado",
+							"__text": "Sabado"
+						},
+						{
+							"minima": "Minima: 21",
+							"promedio": "Promedio: 27",
+							"maxima": "Maxima: 33",
+							"_id": "7",
+							"_nombre": "Domingo",
+							"__text": "Domingo"
+						}
+					]
+				},
+				"_id": "3",
+				"_nombre": "Occidental",
+				"__text": "Occidental"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

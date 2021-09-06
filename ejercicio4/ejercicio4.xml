@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio4.css" ?>
+<!-- ejercicio4.xml -->
+<pais nombre="El Salvador">
+<region id="1" nombre="Oriental">Oriental
+<temperatura>
+<dia id="1" nombre="Lunes">Lunes
+<minima>Minima: 20</minima>
+<promedio>Promedio: 25.5</promedio>
+<maxima>Maxima: 31</maxima>
+</dia>
+<dia id="2" nombre="Martes">Martes
+<minima>Minima: 19</minima>
+<promedio>Promedio: 24.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="3" nombre="Miercoles">Miercoles
+<minima>Minima: 20</minima>
+<promedio>Promedio: 25.5</promedio>
+<maxima>Maxima: 31</maxima>
+</dia>
+<dia id="4" nombre="Jueves">Jueves
+<minima>Minima: 20</minima>
+<promedio>Promedio: 25.5</promedio>
+<maxima>Maxima: 31</maxima>
+</dia>
+<dia id="5" nombre="Viernes">Viernes
+<minima>Minima: 19</minima>
+<promedio>Promedio: 24.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="6" nombre="Sabado">Sabado
+<minima>Minima: 21</minima>
+<promedio>Promedio: 26.5</promedio>
+<maxima>Maxima: 32</maxima>
+</dia>
+<dia id="7" nombre="Domingo">Domingo
+<minima>Minima: 21</minima>
+<promedio>Promedio: 26.5</promedio>
+<maxima>Maxima: 32</maxima>
+</dia>
+</temperatura>
+</region>
+<region id="2" nombre="Central">Central
+<temperatura>
+<dia id="1" nombre="Lunes">Lunes
+<minima>Minima: 17</minima>
+<promedio>Promedio: 23</promedio>
+<maxima>Maxima: 29</maxima>
+</dia>
+<dia id="2" nombre="Martes">Martes
+<minima>Minima: 23</minima>
+<promedio>Promedio: 26.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="3" nombre="Miercoles">Miercoles
+<minima>Minima: 17</minima>
+<promedio>Promedio: 23</promedio>
+<maxima>Maxima: 29</maxima>
+</dia>
+<dia id="4" nombre="Jueves">Jueves
+<minima>Minima: 23</minima>
+<promedio>Promedio: 26.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="5" nombre="Viernes">Viernes
+<minima>Minima: 21</minima>
+<promedio>Promedio: 27</promedio>
+<maxima>Maxima: 33</maxima>
+</dia>
+<dia id="6" nombre="Sabado">Sabado
+<minima>Minima: 19</minima>
+<promedio>Promedio: 24.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="7" nombre="Domingo">Domingo
+<minima>Minima: 19</minima>
+<promedio>Promedio: 24.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+</temperatura>
+</region>
+<region id="3" nombre="Occidental">Occidental
+<temperatura>
+<dia id="1" nombre="Lunes">Lunes
+<minima>Minima: 22</minima>
+<promedio>Promedio: 28.5</promedio>
+<maxima>Maxima: 35</maxima>
+</dia>
+<dia id="2" nombre="Martes">Martes
+<minima>Minima: 21</minima>
+<promedio>Promedio: 27</promedio>
+<maxima>Maxima: 33</maxima>
+</dia>
+<dia id="3" nombre="Miercoles">Miercoles
+<minima>Minima: 21</minima>
+<promedio>Promedio: 27</promedio>
+<maxima>Maxima: 33</maxima>
+</dia>
+<dia id="4" nombre="Jueves">Jueves
+<minima>Minima: 21</minima>
+<promedio>Promedio: 28.5</promedio>
+<maxima>Maxima: 34</maxima>
+</dia>
+<dia id="5" nombre="Viernes">Viernes
+<minima>Minima:22</minima>
+<promedio>Promedio: 28.5</promedio>
+<maxima>Maxima: 33</maxima>
+</dia>
+<dia id="6" nombre="Sabado">Sabado
+<minima>Minima: 19</minima>
+<promedio>Promedio: 24.5</promedio>
+<maxima>Maxima: 30</maxima>
+</dia>
+<dia id="7" nombre="Domingo">Domingo
+<minima>Minima: 21</minima>
+<promedio>Promedio: 27</promedio>
+<maxima>Maxima: 33</maxima>
+</dia>
+</temperatura>
+</region>
+</pais>

@@ -1,0 +1,9 @@
+/* ejercicio4.css   AC16082  */
+pais {background-color:blue;}
+region {background-color:green;}
+temperatura {background-color:aqua; display:block;} 
+dia {color:purple; display:block;} 
+minima {color:black; display:block;} 
+promedio {color:black; display:block;}
+maxima {color:black; display:block;} 
+
